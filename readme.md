@@ -20,3 +20,6 @@ setup che viene effettuato una sola volta
 
 ### git push 
 invio modifiche della repo locale 
+
+### git pull 
+per aggiornare dal cloud a local 
